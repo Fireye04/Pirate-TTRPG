@@ -10,9 +10,12 @@
 - Spend one exhaustion to gain an FX POINT
 - FX POINTS can be spent within a roll and spent on DM provided options or a card draw.
 
-Each officer has a set of cards.
+- fast experience progression; aim for quick snappy stories, that end in retirement, mutiny, or death, then new characters are rolled and start it all again.
+  - deincentivise long standing characters- Aging mechanics!!
 
-Cards are used to initiate actions. The value of the card is the number each player must role a d12 beneath in order to success. The suit of the card represents the type of failure
+Each officer has a set of cards. These cards represent their capacity to exceed the average person's abilities.
+
+Cards are used to initiate actions. The value of the card is the number each player must role a d12 beneath in order to success. Face cards all count as 10, and aces count as 1 or 11, player's choice. The suit of the card represents the type of failure
 
 Hearts => Emotional Failure (hurt someones feelings, hurt your own feelings, etc)
 Diamond => ???  
@@ -21,9 +24,21 @@ Clubs => Physical failture (break something, hit someone, etc)
 
 ### Day Mechanics
 
-At the start of the day each player removes 3 exhaustion and draws 5 cards.
+At the start of the day each player removes 3 exhaustion and draws 10 cards.
+
+### Skills
+
+Players each have a set of skills that provide bonuses to rolls. Each skill has various levels of expertise that players can benefit from.
+
+Whenever a check is failed, one skill point is gained. Each level of a skill has a different skill point cost, increasing with level.
+
+### Abilities
+
+Abilities are great feats of pirate legend that players can unlock instead of skills using skill points. Different abilities will require varying levels of skill before they can be unlocked. Using abilities usually incurs a hefty cost on the pirate, however they allow players to do things that they otherwise couldn't
 
 ### Checks
+
+At any point the GM can call for a check. Each check has an associated skill
 
 Checks involved spending one or more card from the players hand and a dice role. To pass a check the player role below the value of a played card. To increase the probability of passing a check, players can play multiple cards and role against their sum.
 
@@ -57,5 +72,9 @@ For each check dice players role a pool of dice. The lowest valued dice is the v
 - Medium checks => 2d12
 - Easy check => 3d12
 
-  | Check | Effect |
+Players can additionally push themselves on a roll, costing them one point of exhaustion. In exchange, they may choose one of the following
+
+- Add 1d6 to your dice pool.
+
+- | Check | Effect |
   | ----- | ------ |
