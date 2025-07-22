@@ -36,25 +36,14 @@ def outcomes(
     def results(outcome):
         ones, successes = outcome
 
-        if ones >= 1:
+        if ones >= 1 and not winloss:
             return "3. Crit"
         elif successes >= 1:
             return "2. Success"
         else:
             return "1. Failure"
 
-    def winloss(outcome):
-        ones, successes = outcome
-
-        if successes >= 1:
-            return "2. Success"
-        else:
-            return "1. Failure"
-
     # Roll and interpret the result.
-    if winloss:
-        return (count @ die).map(winloss)
-
     return (count @ die).map(results)
 
 
