@@ -64,6 +64,8 @@ Examples
 
 Not sure how I feel about intent TBH --- might make more sense to have these as seperate rolls, etc.
 
+- I think it can work as a series of skill subsets. You can choose one priority which you get by default when you succeed, but extras can cost effect points.
+
 ### Check Difficulty
 
 For each check dice players role a pool of dice. The lowest valued dice is the value used for the check.
@@ -75,6 +77,7 @@ For each check dice players role a pool of dice. The lowest valued dice is the v
 Players can additionally push themselves on a roll, costing them one point of exhaustion. In exchange, they may choose one of the following
 
 - Add 1d6 to your dice pool.
+- Add one effect point to your pool.
 
-- | Check | Effect |
-  | ----- | ------ |
+| Check | Effect |
+| ----- | ------ |
