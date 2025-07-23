@@ -81,3 +81,14 @@ Players can additionally push themselves on a roll, costing them one point of ex
 
 | Check | Effect |
 | ----- | ------ |
+
+### Breaking Points
+At any time players may clear their exhaustion in exchange for a long term injury. 
+
+### Injurys 
+Negative mental or physical alternations to the players state. Gained when breaking points are hit or during combat.
+
+--- Healing?
+
+### Death
+Take three injuries and boom your dead. your new character will be introduced in a way that fits the narrative (met at port, found on another ship, etc, etc)
