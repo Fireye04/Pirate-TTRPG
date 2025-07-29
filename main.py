@@ -50,10 +50,27 @@ def outcomes(
 def main() -> None:
     drawGraphs(
         [
-            [outcomes(1, winloss=True), outcomes(2, winloss=True)],
-            [outcomes(3, winloss=True), None],
+            [
+                outcomes(2, 6, 0, winloss=True),
+                outcomes(2, 6, 1, winloss=True),
+            ],
+            [
+                outcomes(2, 6, 2, winloss=True),
+                outcomes(2, 6, 3, winloss=True),
+            ],
+            [
+                outcomes(2, 6, 4, winloss=True),
+                outcomes(2, 6, 5, winloss=True),
+            ],
         ]
     )
+
+    # drawGraphs(
+    #     [
+    #         [outcomes(1, winloss=True), outcomes(2, winloss=True)],
+    #         [outcomes(3, winloss=True), None],
+    #     ]
+    # )
 
 
 if __name__ == "__main__":
