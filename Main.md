@@ -83,12 +83,58 @@ Players can additionally push themselves on a roll, costing them one point of ex
 | ----- | ------ |
 
 ### Breaking Points
-At any time players may clear their exhaustion in exchange for a long term injury. 
 
-### Injurys 
+At any time players may clear their exhaustion in exchange for a long term injury.
+
+- Major and minor breaking points
+  - Minor BP => getting the crew mad at each other (e.g. lashing at someone for something they probably didnt do, etc)
+  - Major BP => Big Crash Out TODO
+
+### Injurys
+
 Negative mental or physical alternations to the players state. Gained when breaking points are hit or during combat.
 
 --- Healing?
 
 ### Death
+
 Take three injuries and boom your dead. your new character will be introduced in a way that fits the narrative (met at port, found on another ship, etc, etc)
+
+### Beats
+
+### TODO
+
+- Boat Customization
+- Narrative Beats for Character
+- Skills (4)
+  - NO TRADITIONAL SKILL CATEGORIES
+- Aging / Time
+- World effects of Time
+- Map Making & Map format (hex? grid?)
+- Theme / Vibes
+  - This is told as a folklore
+  - Grounded facts with silly overviews / abstractions as warrented
+- Mythos / Magic
+  - Krakens
+  - Ghost Ships
+  - Player Ghost Ships (behaves as your crew did)
+- Skill System
+  - Tied to Title
+  - Players have skills --- seperates from titles
+  - Titles represent a master of a skill. A player with master in a subject can draw +2 card when performaing a check within the domain of their mastery
+- Checks can be called whenever but they do bad things can happen!
+- Pirate Moments
+  - Failure on a check gains you pirate points
+  - Failure on a base check yeilds one PP
+  - Failure on a check below paseline (e.g. played a 3 and failed) gain 2 PP
+
+- New Skill System
+  - No broader categrories
+  - Skills yeild 1 benifit
+  - Players pick the names of skills
+  - Benfifit Examples : Draw one card, reroll one dice, etc
+  - Titles / Mastery is gained by combining 5 benefits into a single broader title. Within this benfiits are now all shared and an additional benifit is gained
+    - Skills are gain ~1 per completion of a beat
+      => ~ 1 title per arc
+- ** FALLOUT / BREAKING POINT **
+  - Major and
