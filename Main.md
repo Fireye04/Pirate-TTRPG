@@ -24,7 +24,11 @@ Clubs => Physical failture (break something, hit someone, etc)
 
 ### Day Mechanics
 
-At the start of the day each player removes 3 exhaustion and draws 10 cards.
+At the start of the day each player removes an amount of exhaustion depending on where they are / how they slept.
+
+- If your on watch, restore 1 exhaustion.
+- If your at sea, restore 2 exhaustion.
+- If your onshore, restore 3 exhaustion.
 
 ### Skills
 
@@ -78,9 +82,22 @@ Players can additionally push themselves on a roll, costing them one point of ex
 
 - Add 1d6 to your dice pool.
 - Add one effect point to your pool.
+- progress a benefit related to the check.
 
-| Check | Effect |
-| ----- | ------ |
+Bonus effect points:
+For each additional dice that passes a roll past the first --- gain an effect point.
+
+On failure: Gain some pirate points.
+
+### Restoring Cards
+
+To restore cards players must engage in restful activities. For example,
+
+- Boozing
+- Smoking
+- Engaging with a Hobby
+
+Cards are then given at GM discretion.
 
 ### Breaking Points
 
@@ -99,6 +116,32 @@ Negative mental or physical alternations to the players state. Gained when break
 ### Death
 
 Take three injuries and boom your dead. your new character will be introduced in a way that fits the narrative (met at port, found on another ship, etc, etc)
+
+### Skills and Titles
+
+A skill represents a proficiency in a specific activity. Skills are fairly specific --- only applying to a specific action (e.g. sword fighting apposed to dexterity). Having skill in a check yields +2 cards on check success and effective exhaustion is -2.
+
+Titles represent a mastery of a set of skills. A player with a title will receive an advantage against all checks within the skill set including existing skill advantages.
+
+Skills are made up of 3 exploits each. Exploits can be obtained by spending one effect point on a successful roll. At any point a player can declare that they wish to begin learning a new skill.
+
+Titles are made up of 3 skills. Titles encompass a broader but related domain. (e.g. fighting). Titles give the player +3 cards on check success and the effective exhaustion is -3. When a title is taken the skills used to obtain it vanish.
+
+Example Exploits:
+
+- Stabbed dennis the menace
+- impaled the dread pirate marianne
+- beheaded port merchant
+
+Example Skills:
+
+- Sword Swingin
+- Sharp shootin
+- Canon Cleanin
+
+Example Titles:
+
+- Weapons Master
 
 ### Beats
 
@@ -135,6 +178,6 @@ Take three injuries and boom your dead. your new character will be introduced in
   - Benfifit Examples : Draw one card, reroll one dice, etc
   - Titles / Mastery is gained by combining 5 benefits into a single broader title. Within this benfiits are now all shared and an additional benifit is gained
     - Skills are gain ~1 per completion of a beat
-      => ~ 1 title per arc
-- ** FALLOUT / BREAKING POINT **
+          => ~ 1 title per arc
+- **FALLOUT / BREAKING POINT**
   - Major and
